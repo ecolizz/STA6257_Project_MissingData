@@ -1,6 +1,6 @@
 ---
-title: "Sample Report - Data Science Capstone"
-author: "Student name"
+title: "Missing Data and Imputation"
+authors: "Karthik Aerra, Liz Miller, Mohit Kumar Veeraboina, Robert Stairs"
 date: '`r Sys.Date()`'
 format:
   html:
@@ -20,6 +20,10 @@ editor:
 ## Introduction
 
 ### What is "mehtod"?
+
+PLACEHOLDER FOR INTRODUCTION TO MISSING DATA AND DIFFERENT METHODOLOGIES AVAILABLE FOR IMPUTATION
+
+WE CAN COVER VARIOUS METHODS AND FOCUS ON 1 OR 2 TO DEMONSTRATE HOW THEY WORK, RELEVANT EQUATIONS, ETC.
 
 This is an introduction to LASSO regression, which is a non-parametric
 estimator that estimates the conditional expectation of two variables
